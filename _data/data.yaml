@@ -1033,16 +1033,19 @@ categories:
       - name: SIL Open Font License
         url: https://scripts.sil.org/OFL
         description: The most common open-source license used for fonts. Required if you want to add your fonts to the Google Fonts library.
+      - name: SIL Font Development Guide
+        url: https://silnrsi.github.io/silfontdev/
+        description: SIL provide detailed information about how they develop their fonts using their own custom tools and workflows.
       - name: Google Fonts
-        url: https://fonts.google.com/
-        description: Used by millions of websites, it's the world's largest repository of high-quality open-source fonts. Google Fonts has also funded the development of many open-source fonts.
-        links:
-          - name: Google Fonts Contribution Guide
-            url: https://googlefonts.github.io/gf-guide/
+        url: https://googlefonts.github.io/gf-guide/
+        description: Google Fonts is the world's largest repository of high-quality open-source fonts. Google Fonts has also funded the development of many open-source fonts, and this Contribution Guide explains their acceptance criteria in detail.
     subcategories:
       - name: Open source type foundries
         description: Foundries that primarily release open-source fonts
         items:
+          - name: SIL
+            url: https://software.sil.org/fonts/
+            description: The foundry that created the Open Font License
           - name: Velvetyne
             url: https://velvetyne.fr/
           - name: The League of Moveable Type

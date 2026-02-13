@@ -27,6 +27,9 @@ categories:
           - name: Learning Type Design
             url: https://www.linkedin.com/learning/learning-type-design/what-you-should-know
             description: A beginner type design course by Charles Nix on LinkedIn Learning.
+          - name: How To Design Thai In GlyphsApp
+            url: https://github.com/justlikeadandelion/how-to-design-thai-in-glyphsapp
+            description: A guide for native Thai designers who are beginners in type design and using GlyphsApp.
       - name: Books
         items:
           - name: How to design fonts?
